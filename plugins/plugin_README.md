@@ -1,1 +1,2 @@
-# Each student names their file plugins/github_username.py
+# Plugins shall be named (student first initial)(student last name)_(app short name)
+# i.e.  SSaddet_8ball.py
